@@ -1,8 +1,3 @@
-## CS 3642 Professor Hung
-## Adam Seliga
-## Programming Assignment 2
-## 8-square solver
-
 import random
 from queue import PriorityQueue
 from time import time_ns
